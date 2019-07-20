@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-gado",
+  "version": "1.0.0",
+  "description": "a project for learning bootstrap using parcel bundler",
+  "main": "index.js",
+  "author": "Dendi Handian <handian.dendi@gmail.com>",
+  "license": "MIT"
+}
